@@ -1,0 +1,23 @@
+.mainHeader {
+    background-color: #ffffff;
+    color: rgb(231, 25, 25);
+    text-align: left;
+    padding-bottom: 10px 
+}
+
+.mainLogo {
+    height: auto;
+    width: 30%;
+}
+
+.headerTitle{
+    background-color: #163fd7;
+    color: #fff;
+    justify-content: center;
+    padding: 10px;
+}
+
+.headerLink {
+    text-decoration: none;
+    color: #fff;
+}

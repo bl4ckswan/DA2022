@@ -1,0 +1,9 @@
+.tableBorder {
+    border-left: 1px solid #163fd7;
+    border-right: 1px solid #163fd7;
+    border-top: 1px solid #163fd7;
+}
+
+.footerBorder {
+    border-bottom: 1px solid #163fd7;
+}

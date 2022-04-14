@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,wght@0,100;0,600;1,600&display=swap');
+
+body{
+  font-family: 'Roboto Serif', sans-serif;
+  height: 100%
+}
+
+a {
+  text-decoration: none;
+}
